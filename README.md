@@ -194,6 +194,36 @@ the FRED and EIA APIs.
 - **Calendar** — month, quarter, construction season flag
 
 ---
+---
+
+## Business Recommendations
+
+Five procurement decisions derived directly from
+model outputs. Full detail in
+[BUSINESS_RECOMMENDATIONS.md](BUSINESS_RECOMMENDATIONS.md)
+
+| # | Recommendation | Signal | Horizon |
+|---|---|---|---|
+| 01 | Immediate procurement action | 🟡 HOLD | 30–60 days |
+| 02 | Supplier price increase validation | 🔵 ANALYZE | Ongoing |
+| 03 | RSI-based contract timing | 🔴 OVERBOUGHT | Strategic |
+| 04 | Supply chain risk monitoring | 🟢 MONITOR | Ongoing |
+| 05 | Construction season positioning | 🟢 PLAN | Annual |
+
+**Current market context:**
+- Resin PPI: 319.4 (May 2026)
+- RSI: 77 — overbought, avoid long-term contracts
+- Reliable 90-day forecast: stable at 317–318
+- Crude volatility elevated at 20.75 vs 8.4 historical avg
+
+The RSI finding was the most unexpected result —
+resin prices exhibit mean-reverting behavior
+similar to financial assets, and the RSI signal
+consistently precedes price corrections.
+This has direct implications for contract
+timing strategy.
+
+---
 
 ## How To Run
 
