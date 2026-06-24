@@ -1,0 +1,13 @@
+date,signal,confidence,current_price,forecast,lower_bound,upper_bound,pct_change,action,risk
+2026-07-01,HOLD,HIGH,319.371,317.94,312.61,323.42,-0.0044806823412269214,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
+2026-08-01,HOLD,HIGH,319.371,317.68,312.08,323.6,-0.005294782556963451,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
+2026-09-01,HOLD,MEDIUM,319.371,605.75,599.99,611.76,0.8966969449323828,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2026-10-01,HOLD,MEDIUM,319.371,606.81,601.0,612.87,0.900015968888847,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2026-11-01,HOLD,MEDIUM,319.371,605.78,599.27,611.88,0.89679087957266,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2026-12-01,HOLD,MEDIUM,319.371,605.51,598.43,612.13,0.8959454678101645,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2027-01-01,HOLD,MEDIUM,319.371,603.86,596.43,611.66,0.8907790625949132,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2027-02-01,HOLD,MEDIUM,319.371,603.32,594.79,611.9,0.8890882390699221,Consider partial forward purchase — lock in 50% of Q needs now,MEDIUM — conflicting signals
+2027-03-01,HOLD,HIGH,319.371,315.3,308.34,322.41,-0.012746930685628845,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
+2027-04-01,HOLD,HIGH,319.371,318.4,310.96,326.44,-0.0030403511903084614,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
+2027-05-01,HOLD,HIGH,319.371,320.26,311.89,329.06,0.002783596506883875,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
+2027-06-01,HOLD,HIGH,319.371,318.19,309.92,327.21,-0.003697893672249463,Maintain current purchasing schedule — no urgent action required,LOW — stable market conditions
