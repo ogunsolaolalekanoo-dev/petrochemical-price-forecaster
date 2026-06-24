@@ -12,6 +12,8 @@ procurement recommendations with configurable signal thresholds.
 
 ![Dashboard](reports/dashboard_screenshot.png)
 ![Dashboard](reports/dashboard_screenshot2.png)
+![Dashboard](reports/Business_recommendation.png)
+
 
 
 ---
